@@ -110,5 +110,7 @@ body{
         height: 94px;
         padding: 4px;
     }
+    .create_qoute{
+z-index:1000;
     
 }
